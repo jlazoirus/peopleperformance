@@ -1,0 +1,924 @@
+{
+    "data":[
+        {   
+            "name": "Jona",
+            "id": 0,
+            "matriz": {
+                "dimensiones": [
+                    {
+                        "name": "Coaching",
+                        "steps": [
+                                {
+                                    "number": "1",
+                                    "mainState": false,
+                                    "blocks": [
+                                        {
+                                            "text":"Se compromete impecablemente con su formación y Umaan Coach",
+                                            "state": false,
+                                            "comment": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "number": "2",
+                                    "mainState": false,
+                                    "blocks": [
+                                        {
+                                            "text":"Aplica técnicas básicas del 'coaching profesional' (la escucha, indagación y el feedback)",
+                                            "state": false,
+                                            "comment": ""
+                                        },
+                                        {
+                                            "text":"Identifica espacios donde aplicar técnicas de coaching y otras disciplinas (mentoring, facilitación, teaching)",
+                                            "state": false,
+                                            "comment": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "number": "3",
+                                    "mainState": false,
+                                    "blocks": [
+                                        {
+                                            "text":"Practica sesiones coaching 1 a 1 con team members de su equipo.",
+                                            "state": false,
+                                            "comment": ""
+                                        },
+                                        {
+                                            "text":"Realiza sesiones de Coaching en Umaan",
+                                            "state": false,
+                                            "comment": ""
+                                        },
+                                        {
+                                            "text":"Tiene, al menos, una formación en Agile Coaching, con una experiencia mínima aplicandolo de 1 año.",
+                                            "state": false,
+                                            "comment": ""
+                                        }
+                                    ]
+                                }
+                        ]
+                    },
+                    {
+                        "name": "Facilitación",
+                        "steps": [
+                            {
+                                "number": "1",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Se compromete impecablemente con su formación y Umaan Coach",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "number": "2",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Aplica técnicas básicas del 'coaching profesional' (la escucha, indagación y el feedback)",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Identifica espacios donde aplicar técnicas de coaching y otras disciplinas (mentoring, facilitación, teaching)",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "number": "3",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Practica sesiones coaching 1 a 1 con team members de su equipo.",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Realiza sesiones de Coaching en Umaan",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Tiene, al menos, una formación en Agile Coaching, con una experiencia mínima aplicandolo de 1 año.",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Estrategia y modelos de negocio",
+                        "steps": [
+                            {
+                                "number": "1",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Se compromete impecablemente con su formación y Umaan Coach",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "number": "2",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Aplica técnicas básicas del 'coaching profesional' (la escucha, indagación y el feedback)",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Identifica espacios donde aplicar técnicas de coaching y otras disciplinas (mentoring, facilitación, teaching)",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "number": "3",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Practica sesiones coaching 1 a 1 con team members de su equipo.",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Realiza sesiones de Coaching en Umaan",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Tiene, al menos, una formación en Agile Coaching, con una experiencia mínima aplicandolo de 1 año.",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Business Agility & Diseño Organizacional",
+                        "steps": [
+                        {
+                            "number": "1",
+                            "mainState": false,
+                            "blocks": [
+                                {
+                                    "text":"Se compromete impecablemente con su formación y Umaan Coach",
+                                    "state": false,
+                                    "comment": ""
+                                }
+                            ]
+                        },
+                        {
+                            "number": "2",
+                            "mainState": false,
+                            "blocks": [
+                                {
+                                    "text":"Aplica técnicas básicas del 'coaching profesional' (la escucha, indagación y el feedback)",
+                                    "state": false,
+                                    "comment": ""
+                                },
+                                {
+                                    "text":"Identifica espacios donde aplicar técnicas de coaching y otras disciplinas (mentoring, facilitación, teaching)",
+                                    "state": false,
+                                    "comment": ""
+                                }
+                            ]
+                        },
+                        {
+                            "number": "3",
+                            "mainState": false,
+                            "blocks": [
+                                {
+                                    "text":"Practica sesiones coaching 1 a 1 con team members de su equipo.",
+                                    "state": false,
+                                    "comment": ""
+                                },
+                                {
+                                    "text":"Realiza sesiones de Coaching en Umaan",
+                                    "state": false,
+                                    "comment": ""
+                                },
+                                {
+                                    "text":"Tiene, al menos, una formación en Agile Coaching, con una experiencia mínima aplicandolo de 1 año.",
+                                    "state": false,
+                                    "comment": ""
+                                }
+                            ]
+                        }
+                    ]
+                    }
+                ]
+            },
+            "engagement": {
+                "value": 1,
+                "comment":"",
+                "lastValues": []
+            },
+            "Umaan": {
+                "value": 1,
+                "comment":"",
+                "lastValues": []
+            }
+        },
+        {   
+            "name": "Majo",
+            "id": 1,
+            "matriz": {
+                "dimensiones": [
+                    {
+                        "name": "Coaching",
+                        "steps": [
+                                {
+                                    "number": "1",
+                                    "mainState": false,
+                                    "blocks": [
+                                        {
+                                            "text":"Se compromete impecablemente con su formación y Umaan Coach",
+                                            "state": false,
+                                            "comment": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "number": "2",
+                                    "mainState": false,
+                                    "blocks": [
+                                        {
+                                            "text":"Aplica técnicas básicas del 'coaching profesional' (la escucha, indagación y el feedback)",
+                                            "state": false,
+                                            "comment": ""
+                                        },
+                                        {
+                                            "text":"Identifica espacios donde aplicar técnicas de coaching y otras disciplinas (mentoring, facilitación, teaching)",
+                                            "state": false,
+                                            "comment": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "number": "3",
+                                    "mainState": false,
+                                    "blocks": [
+                                        {
+                                            "text":"Practica sesiones coaching 1 a 1 con team members de su equipo.",
+                                            "state": false,
+                                            "comment": ""
+                                        },
+                                        {
+                                            "text":"Realiza sesiones de Coaching en Umaan",
+                                            "state": false,
+                                            "comment": ""
+                                        },
+                                        {
+                                            "text":"Tiene, al menos, una formación en Agile Coaching, con una experiencia mínima aplicandolo de 1 año.",
+                                            "state": false,
+                                            "comment": ""
+                                        }
+                                    ]
+                                }
+                        ]
+                    },
+                    {
+                        "name": "Facilitación",
+                        "steps": [
+                            {
+                                "number": "1",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Se compromete impecablemente con su formación y Umaan Coach",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "number": "2",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Aplica técnicas básicas del 'coaching profesional' (la escucha, indagación y el feedback)",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Identifica espacios donde aplicar técnicas de coaching y otras disciplinas (mentoring, facilitación, teaching)",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "number": "3",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Practica sesiones coaching 1 a 1 con team members de su equipo.",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Realiza sesiones de Coaching en Umaan",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Tiene, al menos, una formación en Agile Coaching, con una experiencia mínima aplicandolo de 1 año.",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Estrategia y modelos de negocio",
+                        "steps": [
+                            {
+                                "number": "1",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Se compromete impecablemente con su formación y Umaan Coach",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "number": "2",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Aplica técnicas básicas del 'coaching profesional' (la escucha, indagación y el feedback)",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Identifica espacios donde aplicar técnicas de coaching y otras disciplinas (mentoring, facilitación, teaching)",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "number": "3",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Practica sesiones coaching 1 a 1 con team members de su equipo.",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Realiza sesiones de Coaching en Umaan",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Tiene, al menos, una formación en Agile Coaching, con una experiencia mínima aplicandolo de 1 año.",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Business Agility & Diseño Organizacional",
+                        "steps": [
+                        {
+                            "number": "1",
+                            "mainState": false,
+                            "blocks": [
+                                {
+                                    "text":"Se compromete impecablemente con su formación y Umaan Coach",
+                                    "state": false,
+                                    "comment": ""
+                                }
+                            ]
+                        },
+                        {
+                            "number": "2",
+                            "mainState": false,
+                            "blocks": [
+                                {
+                                    "text":"Aplica técnicas básicas del 'coaching profesional' (la escucha, indagación y el feedback)",
+                                    "state": false,
+                                    "comment": ""
+                                },
+                                {
+                                    "text":"Identifica espacios donde aplicar técnicas de coaching y otras disciplinas (mentoring, facilitación, teaching)",
+                                    "state": false,
+                                    "comment": ""
+                                }
+                            ]
+                        },
+                        {
+                            "number": "3",
+                            "mainState": false,
+                            "blocks": [
+                                {
+                                    "text":"Practica sesiones coaching 1 a 1 con team members de su equipo.",
+                                    "state": false,
+                                    "comment": ""
+                                },
+                                {
+                                    "text":"Realiza sesiones de Coaching en Umaan",
+                                    "state": false,
+                                    "comment": ""
+                                },
+                                {
+                                    "text":"Tiene, al menos, una formación en Agile Coaching, con una experiencia mínima aplicandolo de 1 año.",
+                                    "state": false,
+                                    "comment": ""
+                                }
+                            ]
+                        }
+                    ]
+                    }
+                ]
+            },
+            "engagement": {
+                "value": 1,
+                "comment":"",
+                "lastValues": []
+            },
+            "Umaan": {
+                "value": 1,
+                "comment":"",
+                "lastValues": []
+            }
+        },
+        {   
+            "name": "Yorman",
+            "id": 2,
+            "matriz": {
+                "dimensiones": [
+                    {
+                        "name": "Coaching",
+                        "steps": [
+                                {
+                                    "number": "1",
+                                    "mainState": false,
+                                    "blocks": [
+                                        {
+                                            "text":"Se compromete impecablemente con su formación y Umaan Coach",
+                                            "state": false,
+                                            "comment": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "number": "2",
+                                    "mainState": false,
+                                    "blocks": [
+                                        {
+                                            "text":"Aplica técnicas básicas del 'coaching profesional' (la escucha, indagación y el feedback)",
+                                            "state": false,
+                                            "comment": ""
+                                        },
+                                        {
+                                            "text":"Identifica espacios donde aplicar técnicas de coaching y otras disciplinas (mentoring, facilitación, teaching)",
+                                            "state": false,
+                                            "comment": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "number": "3",
+                                    "mainState": false,
+                                    "blocks": [
+                                        {
+                                            "text":"Practica sesiones coaching 1 a 1 con team members de su equipo.",
+                                            "state": false,
+                                            "comment": ""
+                                        },
+                                        {
+                                            "text":"Realiza sesiones de Coaching en Umaan",
+                                            "state": false,
+                                            "comment": ""
+                                        },
+                                        {
+                                            "text":"Tiene, al menos, una formación en Agile Coaching, con una experiencia mínima aplicandolo de 1 año.",
+                                            "state": false,
+                                            "comment": ""
+                                        }
+                                    ]
+                                }
+                        ]
+                    },
+                    {
+                        "name": "Facilitación",
+                        "steps": [
+                            {
+                                "number": "1",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Se compromete impecablemente con su formación y Umaan Coach",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "number": "2",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Aplica técnicas básicas del 'coaching profesional' (la escucha, indagación y el feedback)",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Identifica espacios donde aplicar técnicas de coaching y otras disciplinas (mentoring, facilitación, teaching)",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "number": "3",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Practica sesiones coaching 1 a 1 con team members de su equipo.",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Realiza sesiones de Coaching en Umaan",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Tiene, al menos, una formación en Agile Coaching, con una experiencia mínima aplicandolo de 1 año.",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Estrategia y modelos de negocio",
+                        "steps": [
+                            {
+                                "number": "1",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Se compromete impecablemente con su formación y Umaan Coach",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "number": "2",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Aplica técnicas básicas del 'coaching profesional' (la escucha, indagación y el feedback)",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Identifica espacios donde aplicar técnicas de coaching y otras disciplinas (mentoring, facilitación, teaching)",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "number": "3",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Practica sesiones coaching 1 a 1 con team members de su equipo.",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Realiza sesiones de Coaching en Umaan",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Tiene, al menos, una formación en Agile Coaching, con una experiencia mínima aplicandolo de 1 año.",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Business Agility & Diseño Organizacional",
+                        "steps": [
+                        {
+                            "number": "1",
+                            "mainState": false,
+                            "blocks": [
+                                {
+                                    "text":"Se compromete impecablemente con su formación y Umaan Coach",
+                                    "state": false,
+                                    "comment": ""
+                                }
+                            ]
+                        },
+                        {
+                            "number": "2",
+                            "mainState": false,
+                            "blocks": [
+                                {
+                                    "text":"Aplica técnicas básicas del 'coaching profesional' (la escucha, indagación y el feedback)",
+                                    "state": false,
+                                    "comment": ""
+                                },
+                                {
+                                    "text":"Identifica espacios donde aplicar técnicas de coaching y otras disciplinas (mentoring, facilitación, teaching)",
+                                    "state": false,
+                                    "comment": ""
+                                }
+                            ]
+                        },
+                        {
+                            "number": "3",
+                            "mainState": false,
+                            "blocks": [
+                                {
+                                    "text":"Practica sesiones coaching 1 a 1 con team members de su equipo.",
+                                    "state": false,
+                                    "comment": ""
+                                },
+                                {
+                                    "text":"Realiza sesiones de Coaching en Umaan",
+                                    "state": false,
+                                    "comment": ""
+                                },
+                                {
+                                    "text":"Tiene, al menos, una formación en Agile Coaching, con una experiencia mínima aplicandolo de 1 año.",
+                                    "state": false,
+                                    "comment": ""
+                                }
+                            ]
+                        }
+                    ]
+                    }
+                ]
+            },
+            "engagement": {
+                "value": 1,
+                "comment":"",
+                "lastValues": []
+            },
+            "Umaan": {
+                "value": 1,
+                "comment":"",
+                "lastValues": []
+            }
+        },
+        {   
+            "name": "Diego",
+            "id": 3,
+            "matriz": {
+                "dimensiones": [
+                    {
+                        "name": "Coaching",
+                        "steps": [
+                                {
+                                    "number": "1",
+                                    "mainState": false,
+                                    "blocks": [
+                                        {
+                                            "text":"Se compromete impecablemente con su formación y Umaan Coach",
+                                            "state": false,
+                                            "comment": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "number": "2",
+                                    "mainState": false,
+                                    "blocks": [
+                                        {
+                                            "text":"Aplica técnicas básicas del 'coaching profesional' (la escucha, indagación y el feedback)",
+                                            "state": false,
+                                            "comment": ""
+                                        },
+                                        {
+                                            "text":"Identifica espacios donde aplicar técnicas de coaching y otras disciplinas (mentoring, facilitación, teaching)",
+                                            "state": false,
+                                            "comment": ""
+                                        }
+                                    ]
+                                },
+                                {
+                                    "number": "3",
+                                    "mainState": false,
+                                    "blocks": [
+                                        {
+                                            "text":"Practica sesiones coaching 1 a 1 con team members de su equipo.",
+                                            "state": false,
+                                            "comment": ""
+                                        },
+                                        {
+                                            "text":"Realiza sesiones de Coaching en Umaan",
+                                            "state": false,
+                                            "comment": ""
+                                        },
+                                        {
+                                            "text":"Tiene, al menos, una formación en Agile Coaching, con una experiencia mínima aplicandolo de 1 año.",
+                                            "state": false,
+                                            "comment": ""
+                                        }
+                                    ]
+                                }
+                        ]
+                    },
+                    {
+                        "name": "Facilitación",
+                        "steps": [
+                            {
+                                "number": "1",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Se compromete impecablemente con su formación y Umaan Coach",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "number": "2",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Aplica técnicas básicas del 'coaching profesional' (la escucha, indagación y el feedback)",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Identifica espacios donde aplicar técnicas de coaching y otras disciplinas (mentoring, facilitación, teaching)",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "number": "3",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Practica sesiones coaching 1 a 1 con team members de su equipo.",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Realiza sesiones de Coaching en Umaan",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Tiene, al menos, una formación en Agile Coaching, con una experiencia mínima aplicandolo de 1 año.",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Estrategia y modelos de negocio",
+                        "steps": [
+                            {
+                                "number": "1",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Se compromete impecablemente con su formación y Umaan Coach",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "number": "2",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Aplica técnicas básicas del 'coaching profesional' (la escucha, indagación y el feedback)",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Identifica espacios donde aplicar técnicas de coaching y otras disciplinas (mentoring, facilitación, teaching)",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "number": "3",
+                                "mainState": false,
+                                "blocks": [
+                                    {
+                                        "text":"Practica sesiones coaching 1 a 1 con team members de su equipo.",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Realiza sesiones de Coaching en Umaan",
+                                        "state": false,
+                                        "comment": ""
+                                    },
+                                    {
+                                        "text":"Tiene, al menos, una formación en Agile Coaching, con una experiencia mínima aplicandolo de 1 año.",
+                                        "state": false,
+                                        "comment": ""
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Business Agility & Diseño Organizacional",
+                        "steps": [
+                        {
+                            "number": "1",
+                            "mainState": false,
+                            "blocks": [
+                                {
+                                    "text":"Se compromete impecablemente con su formación y Umaan Coach",
+                                    "state": false,
+                                    "comment": ""
+                                }
+                            ]
+                        },
+                        {
+                            "number": "2",
+                            "mainState": false,
+                            "blocks": [
+                                {
+                                    "text":"Aplica técnicas básicas del 'coaching profesional' (la escucha, indagación y el feedback)",
+                                    "state": false,
+                                    "comment": ""
+                                },
+                                {
+                                    "text":"Identifica espacios donde aplicar técnicas de coaching y otras disciplinas (mentoring, facilitación, teaching)",
+                                    "state": false,
+                                    "comment": ""
+                                }
+                            ]
+                        },
+                        {
+                            "number": "3",
+                            "mainState": false,
+                            "blocks": [
+                                {
+                                    "text":"Practica sesiones coaching 1 a 1 con team members de su equipo.",
+                                    "state": false,
+                                    "comment": ""
+                                },
+                                {
+                                    "text":"Realiza sesiones de Coaching en Umaan",
+                                    "state": false,
+                                    "comment": ""
+                                },
+                                {
+                                    "text":"Tiene, al menos, una formación en Agile Coaching, con una experiencia mínima aplicandolo de 1 año.",
+                                    "state": false,
+                                    "comment": ""
+                                }
+                            ]
+                        }
+                    ]
+                    }
+                ]
+            },
+            "engagement": {
+                "value": 1,
+                "comment":"",
+                "lastValues": []
+            },
+            "Umaan": {
+                "value": 1,
+                "comment":"",
+                "lastValues": []
+            }
+        }
+    ]
+}
